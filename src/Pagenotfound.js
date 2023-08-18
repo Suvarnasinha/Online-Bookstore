@@ -1,0 +1,1 @@
+export const Pagenotfound = () => <div className="page">PAGE NOT FOUND</div>
